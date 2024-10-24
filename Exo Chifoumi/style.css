@@ -1,0 +1,11 @@
+#ciseaux{
+    border: 2px black solid;
+    border-color: black;
+    cursor: pointer;
+}
+#ciseaux:hover{
+    transform: scale(0.9);
+}
+#ciseaux:active{
+    transform: scale(0.8);
+}
